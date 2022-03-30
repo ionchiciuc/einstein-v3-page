@@ -1,17 +1,14 @@
 {
   "files": {
-    "main.css": "/einstein-v3-page/static/css/main.d26e3fa0.css",
-    "main.js": "/einstein-v3-page/static/js/main.7195c4ee.js",
-    "static/js/787.1e6ea17e.chunk.js": "/einstein-v3-page/static/js/787.1e6ea17e.chunk.js",
+    "main.css": "/einstein-v3-page/static/css/main.43547636.css",
+    "main.js": "/einstein-v3-page/static/js/main.f61e05be.js",
     "static/media/generator.wasm": "/einstein-v3-page/static/media/generator.82e5a4be42a70dc09e4f.wasm",
-    "static/media/failure.m4a": "/einstein-v3-page/static/media/failure.693986c4a4e81fc9cd60.m4a",
     "index.html": "/einstein-v3-page/index.html",
-    "main.d26e3fa0.css.map": "/einstein-v3-page/static/css/main.d26e3fa0.css.map",
-    "main.7195c4ee.js.map": "/einstein-v3-page/static/js/main.7195c4ee.js.map",
-    "787.1e6ea17e.chunk.js.map": "/einstein-v3-page/static/js/787.1e6ea17e.chunk.js.map"
+    "main.43547636.css.map": "/einstein-v3-page/static/css/main.43547636.css.map",
+    "main.f61e05be.js.map": "/einstein-v3-page/static/js/main.f61e05be.js.map"
   },
   "entrypoints": [
-    "static/css/main.d26e3fa0.css",
-    "static/js/main.7195c4ee.js"
+    "static/css/main.43547636.css",
+    "static/js/main.f61e05be.js"
   ]
 }
